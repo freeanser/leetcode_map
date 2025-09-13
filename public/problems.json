@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "arrays_hashing",
+      "name": "Arrays & Hashing",
+      "order": 1,
+      "problems": [
+        {
+          "id": "concat_array",
+          "title": "Concatenation of Array",
+          "url": "https://leetcode.com/problems/concatenation-of-array/",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "contains_duplicate",
+          "title": "Contains Duplicate",
+          "url": "https://leetcode.com/problems/contains-duplicate/",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "valid_anagram",
+          "title": "Valid Anagram",
+          "url": "https://leetcode.com/problems/valid-anagram/",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "id": "two_pointers",
+      "name": "Two Pointers / Sliding Window",
+      "order": 2,
+      "problems": [
+        {
+          "id": "two_sum_ii",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "longest_substring_no_repeat",
+          "title": "Longest Substring Without Repeating Characters",
+          "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}
